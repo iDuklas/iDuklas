@@ -1,4 +1,4 @@
-<h1 align="center">iDuklas</h1>
+<h1 align="center">Mathieu Duclos</h1>
 <h3 align="center">IT Support Technician &nbsp;|&nbsp; System Administrator &nbsp;|&nbsp; Network Administrator &nbsp;|&nbsp; Power Platform Developer</h3>
 
 <br/>
