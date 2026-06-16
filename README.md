@@ -56,16 +56,6 @@ I'm an IT professional with hands-on experience supporting end users, managing M
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iDuklas&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDuklas&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 📬 Contact
 
 <p>
