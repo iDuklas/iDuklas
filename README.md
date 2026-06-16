@@ -7,7 +7,7 @@
 
 ## 👤 About Me
 
-I'm an IT professional with hands-on experience supporting end users, managing Microsoft 365 environments, administering Windows systems, and designing secure network infrastructure. I enjoy solving complex problems through automation, documentation, and thoughtful system design.
+I'm an IT professional with hands-on experience supporting end users, managing Microsoft 365 environments, administering Windows systems, and designing secure network infrastructure. I enjoy solvi[...]
 
 - 🏢 Experienced in IT Support, System Administration, and Network Administration
 - ⚙️ Passionate about automation, process improvement, and self-service IT solutions
@@ -34,8 +34,6 @@ I'm an IT professional with hands-on experience supporting end users, managing M
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white)
 ![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
 ![Exchange](https://img.shields.io/badge/Exchange_Online-0078D4?style=flat&logo=microsoft&logoColor=white)
-![Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat&logo=microsoft&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 ### ⚡ Power Platform
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat&logo=powerapps&logoColor=white)
@@ -65,15 +63,6 @@ I'm an IT professional with hands-on experience supporting end users, managing M
   &nbsp;
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDuklas&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
-
----
-
-## 📚 Currently Learning
-
-- 🔷 **Microsoft Azure** — Azure fundamentals, cloud identity, and hybrid environments
-- 🔐 **Security & Compliance** — Microsoft Purview, Defender for Endpoint, and security best practices
-- 🤖 **Power Platform Advanced** — Custom connectors, Dataverse, and advanced Power Apps development
-- 🐧 **Linux Administration** — System management, scripting, and networking on Linux
 
 ---
 
