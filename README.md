@@ -7,7 +7,7 @@
 
 ## 👤 About Me
 
-I'm an IT professional with hands-on experience supporting end users, managing Microsoft 365 environments, administering Windows systems, and designing secure network infrastructure. I enjoy solvi[...]
+I'm an IT professional with hands-on experience in end-user support, Microsoft 365 administration, Windows systems management, and secure network infrastructure. I enjoy solving technical challenges, streamlining workflows, and building practical solutions that improve efficiency for both users and IT teams.
 
 - 🏢 Experienced in IT Support, System Administration, and Network Administration
 - ⚙️ Passionate about automation, process improvement, and self-service IT solutions
